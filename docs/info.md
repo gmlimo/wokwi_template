@@ -13,7 +13,7 @@ It is a decorder to BCD to segments 7 display.
 
 ## How to test
 
-Input the binary combination of the desired number (e.g. 0101 displays 5 digit)
+Input the binary combination of the desired number (e.g. 0101 displays 5 digit).
 
 ## External hardware
 
