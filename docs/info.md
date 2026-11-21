@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a decorder to BCD to segments 7 display. 
 
 ## How to test
 
-Explain how to use your project
+Input the binary combination of the desired number (e.g. 0101 displays 5 digit)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segments display common cathode.
