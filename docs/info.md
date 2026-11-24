@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It is a decorder to BCD to segments 7 display. 
+It is a car alarm. 
 
 ## How to test
 
-Input the binary combination of the desired number (e.g. 0101 displays 5 digit).
+It is a car alarm.
 
 ## External hardware
 
-7 segments display common cathode.
+No requirements.
